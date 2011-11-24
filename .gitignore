@@ -1,0 +1,4 @@
+*.pyc
+.*.sw[nop]
+*.compressed.js
+game_logs

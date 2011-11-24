@@ -7,3 +7,8 @@ Directory structure:
 * starter: from http://aichallenge.org/starter_packages.php
   * repo: https://github.com/aichallenge/aichallenge/tree/epsilon/ants/dist/starter_bots/javascript
 
+Next Steps:
+----------
+
+* Figure out how node.require and closure-compiler might play together.
+

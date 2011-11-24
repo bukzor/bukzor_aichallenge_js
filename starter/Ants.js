@@ -125,7 +125,6 @@ exports.ants = {
 		}
 		this.orders = [];
 		fs.writeSync(process.stdout.fd,'go\n');
-		process.stdout.flush();
 	},
 	'tileInDirection': function(row, col, direction) {
 		var rowd = 0;

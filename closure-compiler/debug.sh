@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# requires js-beautify:
+#	git clone https://github.com/einars/js-beautify
+#	sudo ln -s $PWD/js-beautify/python/js-beautify /usr/local/bin/
+
 HERE=`readlink -f $0`
 HERE=`dirname $HERE`
 
